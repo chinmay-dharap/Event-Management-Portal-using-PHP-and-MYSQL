@@ -1,0 +1,6 @@
+added carousel
+added proper spacing and ruling between department skill divisions to make it feel less crowded
+changed "close project" button to "X Close"
+added webdev images and info
+images now loaded in popert directories
+(staff images in /img/faculty and webdev in /img/webdev)
